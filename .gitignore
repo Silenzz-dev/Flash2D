@@ -13,8 +13,8 @@ build/
 
 # Eclipse
 .apt_generated
-.classpath
-.project
+#.classpath
+#.project
 .settings
 .springBeans
 .sts4-cache
